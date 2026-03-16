@@ -1,5 +1,5 @@
 [project]
-name = "pyfreezabledict"
+name = "freezabledict2"
 dynamic = ["version"]
 description = "freezable dictionary like object inspired by frozenlist."
 readme = "README.md"
