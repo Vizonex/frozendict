@@ -27,4 +27,4 @@ ext-modules = [
 ]
 
 [project.urls]
-    repository = "https://github.com/Vizonex/freezabledict.git"
+    repository = "https://github.com/Vizonex/freezabledict2.git"
